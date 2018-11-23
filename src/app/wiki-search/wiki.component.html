@@ -1,0 +1,11 @@
+wiki
+<search-input (WritingFinished)="getResults($event)">
+</search-input>
+
+<show-results [data]="results">
+    <ul>
+        <li *ngFor="let result of results">
+            <ng-container> {{result.title}} </ng-container>
+        </li>
+    </ul>
+</show-results>

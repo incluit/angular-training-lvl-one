@@ -1,0 +1,4 @@
+<div *ngIf="data?.length === 0">
+    No se encotraron resultados
+</div>
+<ng-content *ngIf="data && data.length > 0"></ng-content>
