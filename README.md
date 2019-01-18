@@ -12,4 +12,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Use service workers
 
-Compile the application with the following command  `ng build --prod` and then serve the folder dist/angular-training with the example `http-server` (To install globally the package, you need to use the following command => `npm i -g http-server`).
+Compile the application with the following command  `ng build --prod` and then serve the folder dist/angular-training with the example `http-server` (To install the package globally, you need to use the following command => `npm i -g http-server`).
