@@ -10,6 +10,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Usar service worker
+## Use service workers
 
-Compilar la aplicacion con `ng build --prod` y luego servir la carpeta dist/angular-training con por ejemplo `http-server` (para instalarlo globalmente => `npm i -g http-server`)
+Compile the application with the following command  `ng build --prod` and then serve the folder dist/angular-training with the example `http-server` (To install the package globally, you need to use the following command => `npm i -g http-server`).
